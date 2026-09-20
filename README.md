@@ -20,4 +20,4 @@ cmake --build build
 
 ## 作者
 - 王子凡 2264215100 2026.9.19
-- 备注：本机的cmake故障，故先用g++验证;并且Ubuntu是之前安装的所以是24.04版本
+- 备注：本机的cmake故障，尝试各种方法没有解决，但是VScode里的cmake插件可以用，故先用g++验证，所以没有【100%】Build target hello,;并且Ubuntu是之前安装的所以是24.04版本
