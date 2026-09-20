@@ -14,6 +14,9 @@
 cmake -S . -B build
 cmake --build build
 ./build/hello
+##运行结果
+![success](images/success.png)
+
 ##作者
 - 王子凡 2264215100 2026.9.19
 - 备注：本机的cmake故障，故先用g++验证
