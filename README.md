@@ -13,8 +13,8 @@
 ```bash
 cmake -S . -B build
 cmake --build build
-./build/hello```
-
+./build/hello
+```
 ## 运行结果
 ![success](images/success.png)
 
